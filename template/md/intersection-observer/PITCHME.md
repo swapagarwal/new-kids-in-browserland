@@ -4,6 +4,8 @@
 
 ---
 
+### Demo
+
 @snap[west split-screen-img]
 ![Demo of Intersection Observer API](template/img/intersection-observer-demo.gif)
 @snapend
