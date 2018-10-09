@@ -10,6 +10,7 @@ Use the new browser APIs to supercharge your web apps
 - Credential Management API
 - Network Information API
 - Web Share API
+- Device Memory API
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
@@ -18,6 +19,8 @@ Use the new browser APIs to supercharge your web apps
 ---?include=template/md/network-information/PITCHME.md
 
 ---?include=template/md/web-share/PITCHME.md
+
+---?include=template/md/device-memory/PITCHME.md
 
 ---
 
