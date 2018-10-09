@@ -11,6 +11,7 @@ Use the new browser APIs to supercharge your web apps
 - Network Information API
 - Web Share API
 - Device Memory API
+- Concurrent Hardware API
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
@@ -21,6 +22,8 @@ Use the new browser APIs to supercharge your web apps
 ---?include=template/md/web-share/PITCHME.md
 
 ---?include=template/md/device-memory/PITCHME.md
+
+---?include=template/md/concurrent-hardware/PITCHME.md
 
 ---
 
