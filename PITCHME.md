@@ -9,12 +9,15 @@ Use the new browser APIs to supercharge your web apps
 - Intersection Observer API
 - Credential Management API
 - Network Information API
+- Web Share API
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
 ---?include=template/md/credential-management/PITCHME.md
 
 ---?include=template/md/network-information/PITCHME.md
+
+---?include=template/md/web-share/PITCHME.md
 
 ---
 
