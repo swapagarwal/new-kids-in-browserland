@@ -2,7 +2,9 @@
 
 (Sharing made ridiculously easy!)
 
-This API offers a simple way for websites to invoke the platform's native share widget, so that you can share to any installed apps, social networks, and even websites, in a uniform and familiar way.
+@ul
+- This API offers a simple way for websites to invoke the platform's native share widget, so that you can share to any installed apps, social networks, and even websites, in a uniform and familiar way.
+@ulend
 
 ---
 
