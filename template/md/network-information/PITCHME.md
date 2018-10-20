@@ -6,6 +6,14 @@
 - This API lets you retrieve the current network type and monitor for network type changes.
 @ulend
 
+Note:
+
+Responsive Web Design has revolutionized the web. A single site can adapt its layout when viewed on a range of different devices and screens. All that's required is a few media queries to detect the screen size and load alternative styles or stylesheets.
+
+However, using the screen size to detect browser capabilities is similar to judging a car's speed by looking at its radio. Modern smartphones and tablets have increasingly large resolutions and will happily show a typical desktop view. If that view adds numerous fonts, images or other assets, the mobile user may receive a degraded — and expensive — experience because they're on a slower or metered connection.
+
+The Network Information API provides a solution here. It indicates whether the user is on a metered connection, such as pay-as-you-go, and provides an estimate of bandwidth. Using this information it's possible to conditionally load images, videos, fonts and other resources. At a basic level, you could override a media query to ensure the mobile layout is retained on a limited network.
+
 ---
 
 ### Demo

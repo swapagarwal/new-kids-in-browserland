@@ -6,6 +6,16 @@
 - This API allows you to fire a callback function when an element enters the viewport (user's visible area of a web page).
 @ulend
 
+Note:
+
+So, have you ever written JavaScript to enable infinite scrolling or to lazy-load images that appear below the fold?
+
+If you're like me, you did this by listening for scroll events and requesting an element's `scrollTop` property or calling `getBoundingClientRect()` on an element. You forced the browser to stop everything and repeatedly recalculate the layout. You suffered. Your users suffered. It was a dark time.
+
+Guess what? The dark times are over! Introducing the glorious Intersection Observer API...
+
+The Intersection Observer API is a relatively new web API that provides easy-to-use, efficient tools for detecting changes to a DOM element's visibility within the browser viewport or within another element. No more reflow. No more suffering. None.
+
 ---
 
 ### Demo

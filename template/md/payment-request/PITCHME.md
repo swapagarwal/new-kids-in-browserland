@@ -6,6 +6,16 @@
 - This API is meant to reduce the number of steps needed to complete a payment online, potentially doing away with (long) checkout forms.
 @ulend
 
+Note:
+
+Buying things online can be a frustrating process, especially on mobile. Even if the pages are well designed, there's a lot of information required: Our contact information, shipping and billing addresses, shipping option and card details. If you've ever just given up sometimes, you're in the majority.
+
+The Baymard Institute took an average across 37 different studies and found that 69% of shopping carts are abandoned.
+
+Unsurprisingly, the figures are worse on mobile, where the smaller screen and lack of a physical keyboard can make input slower. The abandonment rate on mobile can be as high as 84% or more! With the rise of mobile browsing over recent years, this means the overall problem has been getting worse. For e-commerce sites, these abandoned carts are costing a huge amount of money. Business Insider estimated $4 trillion worth of merchandise would be abandoned in one year.
+
+Thankfully, the web is fighting back against this problem. The "Web Payments" W3C Working Group has been busy working on "a revolution in payments on the web", developing new standards to help make online payments much easier.
+
 ---
 
 ### Demo

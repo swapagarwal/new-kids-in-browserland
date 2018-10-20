@@ -1,2 +1,2 @@
 # new-kids-in-browserland
-Use the new browser APIs to supercharge your web apps
+Supercharge your web apps using the new browser APIs
