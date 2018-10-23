@@ -1,6 +1,17 @@
-# New Kids in Browserland
+---?color=#020203
+@title[Introduction]
 
-Supercharge your web apps using the new browser APIs
+@transition[none]
+
+@snap[west]
+![Browser Logos](template/meme/browser-logos.gif)
+@snapend
+
+@snap[east]
+@size[2em](NEW @color[#e49436](KIDS) IN<br>@color[#e49436](BROWSER)LAND)
+<br><br>
+@fa[plug] Supercharge your web apps<br>using the new browser APIs @fa[bolt]
+@snapend
 
 ---
 
