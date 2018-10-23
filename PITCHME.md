@@ -13,6 +13,26 @@
 @fa[plug] Supercharge your web apps<br>using the new browser APIs @fa[bolt]
 @snapend
 
+---?color=black
+
+@snap[west]
+@css[bio-about](Software Engineer at Meesho<br>Obsessed with Sindre's `awesome` lists)
+<br><br><br>
+@fa[terminal fa-3x bio-fa](geek)
+<br><br><br>
+@css[bio-about](Open Source Contributor at Night<br>Co-Organizer at Vue Bangalore)
+@snapend
+
+@snap[east bio]
+@css[bio-headline](Swapnil Agarwal)
+<br>
+@css[bio-byline](@fa[github pad-fa] swapagarwal @fa[twitter pad-fa])
+<br>
+![](assets/img/avatar.jpg)
+<br>
+@css[bio-tagline](The swag guy! devswag.io)
+@snapend
+
 ---
 
 ## Sneak Peek
