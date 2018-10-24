@@ -16,17 +16,17 @@ Guess what? The dark times are over! Introducing the glorious Intersection Obser
 
 The Intersection Observer API is a relatively new web API that provides easy-to-use, efficient tools for detecting changes to a DOM element's visibility within the browser viewport or within another element. No more reflow. No more suffering. None.
 
----
+---?image=template/img/intersection-observer-demo.gif&size=auto 100%
 
-### Demo
+@snap[west]
+@size[2em](Demo)
+@snapend
 
-![Demo of Intersection Observer API](template/img/intersection-observer-demo.gif)
+---?image=template/img/intersection-observer-threshold.gif&size=auto 100%
 
----
-
-### Demo  (Continued)
-
-![Another Demo of Intersection Observer API](template/img/intersection-observer-threshold.gif)
+@snap[west]
+@size[2em](Another<br>Demo)
+@snapend
 
 ---
 

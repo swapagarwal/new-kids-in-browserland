@@ -16,17 +16,17 @@ Unsurprisingly, the figures are worse on mobile, where the smaller screen and la
 
 Thankfully, the web is fighting back against this problem. The "Web Payments" W3C Working Group has been busy working on "a revolution in payments on the web", developing new standards to help make online payments much easier.
 
----
+---?image=template/img/payment-request-without.png&size=90% auto
 
-### Demo
+@snap[north]
+@size[2em](BEFORE)
+@snapend
 
-![Demo without Payment Request API](template/img/payment-request-without.png)
+---?image=template/img/payment-request-demo.png&size=auto 90%
 
----
-
-### Demo (Continued)
-
-![Demo with Payment Request API](template/img/payment-request-demo.png)
+@snap[west]
+@size[2em](AFTER)
+@snapend
 
 ---
 

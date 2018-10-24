@@ -20,11 +20,11 @@ Enter the Credential Management API. It gives developers programmatic access to 
 - navigator.credentials.store()
 - navigator.credentials.requireUserMediation()
 
----
+---?image=template/img/credential-management-demo.gif&size=auto 90%
 
-### Demo
-
-![Demo of Credential Management API](template/img/credential-management-demo.gif)
+@snap[west]
+@size[2em](Demo)
+@snapend
 
 ---
 

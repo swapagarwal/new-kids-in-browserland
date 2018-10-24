@@ -21,8 +21,8 @@ This is where the Web Share API comes into play. It is a simple API that allows 
 - navigator.share(data)
   - `data` can contain `title`, `text`, and `url`
 
----
+---?image=template/img/web-share-demo.gif&size=auto 90%
 
-### Demo
-
-![Demo of Web Share API](template/img/web-share-demo.gif)
+@snap[west]
+@size[2em](Demo)
+@snapend

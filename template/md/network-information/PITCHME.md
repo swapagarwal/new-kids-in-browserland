@@ -16,7 +16,7 @@ The Network Information API provides a solution here. It indicates whether the u
 
 ---
 
-### Demo
+### Example
 
 Write connection-aware components, rendering different elements for different speeds. For example, a <Media /> component in a news article might output:
 @ul
@@ -26,11 +26,7 @@ Write connection-aware components, rendering different elements for different sp
 - 4g: a HD video ~1.8MB
 @ulend
 
----
-
-### Demo (Continued)
-
-![Demo of Network Information API](template/img/network-information-demo.jpg)
+---?image=template/img/network-information-demo.jpg&size=auto 100%
 
 ---
 

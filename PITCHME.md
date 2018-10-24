@@ -33,6 +33,8 @@
 @css[bio-tagline](That swag guy! <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">devswag.io</a>)
 @snapend
 
+---?image=template/meme/new_apis_are_coming!.jpg&size=auto 80%
+
 ---
 
 ## Sneak Peek
@@ -42,7 +44,6 @@
 - Network Information API
 - Web Share API
 - Device Memory API
-- Concurrent Hardware API
 - Payment Request API
 
 ---
@@ -55,14 +56,14 @@
 
 ---?include=template/md/network-information/PITCHME.md
 
+---?image=template/meme/halfway.png
+
 ---?include=template/md/web-share/PITCHME.md
 
 ---?include=template/md/device-memory/PITCHME.md
 
----?include=template/md/concurrent-hardware/PITCHME.md
-
 ---?include=template/md/payment-request/PITCHME.md
 
----
+---?color=#020203
 
-# fin.
+@size[2em](@color[#e49436](fin.))
