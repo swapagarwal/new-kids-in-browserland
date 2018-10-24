@@ -16,21 +16,21 @@
 ---?color=black
 
 @snap[west]
-@css[bio-about](Software Engineer at Meesho<br>Obsessed with Sindre's `awesome` lists)
+@css[bio-about](Software Engineer at <a href="https://meesho.com/tech" target="_blank" rel="noopener noreferrer">Meesho</a><br>Obsessed with Sindre's <a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer">`awesome`</a> lists)
 <br><br><br>
 @fa[terminal fa-3x bio-fa](geek)
 <br><br><br>
-@css[bio-about](Open Source Contributor at Night<br>Co-Organizer at Vue Bangalore)
+@css[bio-about](Open Source Contributor at Night<br>Co-Organizer at <a href="https://www.meetup.com/vue-bangalore/" target="_blank" rel="noopener noreferrer">Vue Bangalore</a>)
 @snapend
 
 @snap[east bio]
 @css[bio-headline](Swapnil Agarwal)
 <br>
-@css[bio-byline](@fa[github pad-fa] swapagarwal @fa[twitter pad-fa])
+@css[bio-byline](<a href="https://github.com/swapagarwal" target="_blank" rel="noopener noreferrer">@fa[github pad-fa]</a> swapagarwal <a href="https://twitter.com/SwapAgarwal" target="_blank" rel="noopener noreferrer">@fa[twitter pad-fa]</a>)
 <br>
 ![](assets/img/avatar.jpg)
 <br>
-@css[bio-tagline](The swag guy! devswag.io)
+@css[bio-tagline](That swag guy! <a href="http://devswag.io/" target="_blank" rel="noopener noreferrer">devswag.io</a>)
 @snapend
 
 ---
@@ -44,6 +44,10 @@
 - Device Memory API
 - Concurrent Hardware API
 - Payment Request API
+
+---
+
+# Let's Start!
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
