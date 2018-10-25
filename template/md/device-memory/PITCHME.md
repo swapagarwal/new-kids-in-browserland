@@ -25,3 +25,13 @@ Note:
 
 - Enable developers to tailor content at runtime in accordance with hardware limitations. For example, developers can serve a "lite" app to users on low-end devices, resulting in better experiences and fewer frustrations.
 - Add context to metrics, such as the amount of time a task takes to complete in JavaScript, through the lens of device memory. This will result in a better understanding of how device memory correlates with user behavior, conversions, or other metrics important to your business.
+
+---?image=template/img/caniuse/device-memory.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Browser Support)
+@snapend
+
+@snap[south]
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator/deviceMemory#Browser_compatibility" target="_blank" rel="noopener noreferrer">Reference</a>
+@snapend

@@ -47,3 +47,13 @@ Note:
 - Reporting of visibility of advertisements in order to calculate ad revenues.
 - Imagine a navigation bar that allows you to jump between sections on a page. When scrolling, the link to the section that's currently in the viewport should be highlighted.
 - Check which feed cards are seen by user to avoid showing duplicate cards.
+
+---?image=template/img/caniuse/intersection-observer.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Browser Support)
+@snapend
+
+@snap[south]
+https://caniuse.com/#feat=intersectionobserver
+@snapend

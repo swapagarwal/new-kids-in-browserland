@@ -42,3 +42,13 @@ Note:
 - Use service workers to return hi-res or lo-res images depending on the connection.
 - Determine whether to preload resource-intensive assets, such as video, based on network connection (deciding to not preload assets if they're over cellular).
 - Conditionally load images, videos, fonts and other resources based on whether the user is on a metered connection (such as pay-as-you-go) and his bandwidth.
+
+---?image=template/img/caniuse/network-information.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Browser Support)
+@snapend
+
+@snap[south]
+https://caniuse.com/#feat=netinfo
+@snapend

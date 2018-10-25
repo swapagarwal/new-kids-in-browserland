@@ -41,3 +41,13 @@ Note:
 - Removes friction from sign-in flows - The most exciting part of using Credential Management API is the auto sign-in. Users can be automatically signed back into a site even if their session has expired or they saved credentials on another device.
 - Allows one tap sign in with account chooser - Users can choose an account in a native account chooser.
 - Stores credentials - Your application can store either a username and password combination or even federated account details. These credentials can be synced across devices by the browser.
+
+---?image=template/img/caniuse/credential-management.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Browser Support)
+@snapend
+
+@snap[south]
+https://caniuse.com/#feat=credential-management
+@snapend

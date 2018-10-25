@@ -26,3 +26,13 @@ This is where the Web Share API comes into play. It is a simple API that allows 
 @snap[west]
 @size[2em](Demo)
 @snapend
+
+---?image=template/img/caniuse/web-share.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Browser Support)
+@snapend
+
+@snap[south]
+https://caniuse.com/#feat=web-share
+@snapend
