@@ -28,19 +28,25 @@ Write connection-aware components, rendering different elements for different sp
 
 ---?image=template/img/network-information-demo.jpg&size=auto 100%
 
----
+Note:
+- Connection-aware components: Use service workers to return hi-res or lo-res images depending on the connection.
 
-### Use Cases
+---?image=template/img/carbon/network-information-preload.png&size=90% auto
 
-@ul
-- Connection-aware components
-- Cellular / Wifi
-- Metered connection
-@ulend
+@snap[north]
+@size[1.5em](Preload Assets)
+@snapend
 
 Note:
-- Use service workers to return hi-res or lo-res images depending on the connection.
 - Determine whether to preload resource-intensive assets, such as video, based on network connection (deciding to not preload assets if they're over cellular).
+
+---?image=template/img/carbon/network-information-monitor.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Monitor)
+@snapend
+
+Note:
 - Conditionally load images, videos, fonts and other resources based on whether the user is on a metered connection (such as pay-as-you-go) and his bandwidth.
 
 ---?image=template/img/caniuse/network-information.png&size=90% auto

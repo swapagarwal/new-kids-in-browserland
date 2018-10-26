@@ -22,7 +22,7 @@ Thankfully, the web is fighting back against this problem. The "Web Payments" W3
 @size[2em](BEFORE)
 @snapend
 
----?image=template/img/payment-request-demo.png&size=auto 90%
+---?image=template/img/payment-request-demo.gif&size=auto 90%
 
 @snap[west]
 @size[2em](AFTER)

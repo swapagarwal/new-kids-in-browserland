@@ -12,6 +12,12 @@ The range of capabilities of devices that can connect to the web is wider today 
 
 The Device Memory API is a new web platform feature aimed at helping web developers deal with the modern device landscape. It adds a read-only property to the navigator object, navigator.deviceMemory, which returns how much RAM the device has in gigabytes, rounded down to the nearest power of two.
 
+---?image=template/img/carbon/device-memory.png&size=90% auto
+
+@snap[north]
+@size[1.5em](Code Sample)
+@snapend
+
 ---
 
 ### Use Cases

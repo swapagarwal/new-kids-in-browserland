@@ -14,10 +14,13 @@ As a web developer, I've always been jealous of the ability that native develope
 
 This is where the Web Share API comes into play. It is a simple API that allows websites to invoke the native sharing capabilities of the host platform directly from the web.
 
----
+---?image=template/img/carbon/web-share.png&size=90% auto
 
-### API Spec
+@snap[north]
+@size[1.5em](Code Sample)
+@snapend
 
+Note:
 - navigator.share(data)
   - `data` can contain `title`, `text`, and `url`
 

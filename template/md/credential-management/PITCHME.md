@@ -12,13 +12,11 @@ To provide a sophisticated user experience, it's important to help users authent
 
 Enter the Credential Management API. It gives developers programmatic access to a browser's credential manager and helps users sign-in more easily.
 
----
+---?image=template/img/carbon/credential-management.png&size=95% auto
 
-### API Spec
-
-- navigator.credentials.get()
-- navigator.credentials.store()
-- navigator.credentials.requireUserMediation()
+@snap[north]
+@size[1.5em](API Spec)
+@snapend
 
 ---?image=template/img/credential-management-demo.gif&size=auto 90%
 
