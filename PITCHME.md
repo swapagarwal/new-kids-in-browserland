@@ -104,8 +104,8 @@ Note:
 @ulend
 
 Note:
-All of these APIs can be used progressively, i.e. you can integrate them in your websites in such a way that users who are on supported browsers can be upgraded to a new experience while those who are still on unsupported browsers will remain on your old flow.
-On that note, I'd just like to add one last thing. Always develop features keeping your users in mind and not just for the sake of it.
+I'd like to add that all of these APIs can be used progressively, i.e. you can integrate them in your websites in such a way that users who are on supported browsers can be upgraded to a new experience while those who are still on unsupported browsers will remain on your old flow.
+On that note, I'd just like to emphasize one last thing. Always develop features keeping your users in mind and not just for the sake of it.
 That's all I have for today. Thank you for your time!
 
 ---?color=#020203
