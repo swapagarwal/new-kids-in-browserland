@@ -27,8 +27,8 @@ Here'a quick demo of the API in action. The top banner displays the answer to th
 
 ---?image=template/img/intersection-observer-threshold.gif&size=auto 100%
 
-@snap[west]
-@size[2em](Another<br>Demo)
+@snap[east]
+Thresholds = <br>[0, 0.25, 0.5,<br>0.75, 1]
 @snapend
 
 Note:

@@ -37,12 +37,13 @@ Hello everyone! Today we'll talk about some of the new web APIs that have been r
 @snapend
 
 Note:
-My name is Swapnil and I'm a software engineer at Meesho. Prior to that, I worked for 2 years at Amazon. At night, I use my projects to lower the entry barrier in the world of open-source. If you're passionate about open-source sustainability or helping people start their open-source journey in general, you should definitely contact me via social media. I go by the handle swapagarwal.
+My name is Swapnil and I'm a software engineer at Meesho. Prior to that, I worked for 2 years at Amazon. I'm passionate about open-source sustainability and helping people start their open-source journey in general by lowering the entry barrier. If any of this excite you as well, I'd love to connect and hear your thoughts. You can find me on social media, by the handle swapagarwal.
 
 ---?image=template/meme/new_apis_are_coming!.jpg&size=auto 80%
 
 Note:
-Back to the topic! New browser APIs are coming.
+Back to the topic! Brace yourselves, Memes are coming.
+Sorry, I meant new browser APIs are coming!
 
 ---
 
@@ -63,7 +64,7 @@ Here's a sneak peek of the APIs that we'll be talking about today.
 # Let's Start!
 
 Note:
-Let's start!
+Without further delay, let's dive right in!
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
@@ -90,13 +91,22 @@ Note:
 - A modern solution to handle scroll events (Intersection Observer API)
 - Keep login simple for your users (Credential Management API)
 - Make your website network-responsive (Network Information API)
+@ulend
+
+---
+
+## Recap
+
+@ul
 - Sharing made ridiculously easy (Web Share API)
 - Tailor content dynamically based on device memory (Device Memory API)
 - Buy seamlessly on the web (Payment Request API)
 @ulend
 
 Note:
-All of these APIs can be used progressively.
+I'd like to add that all of these APIs can be used progressively, i.e. you can integrate them in your websites in such a way that users who are on supported browsers can be upgraded to a new experience while those who are still on unsupported browsers will remain on your old flow.
+On that note, I'd just like to emphasize one last thing. Always develop features keeping your users in mind and not just for the sake of it.
+That's all I have for today. Thank you for your time!
 
 ---?color=#020203
 
