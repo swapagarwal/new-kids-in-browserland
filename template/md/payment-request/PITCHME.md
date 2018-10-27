@@ -1,7 +1,7 @@
 ---?image=template/img/payment-request-without.png&size=90% auto
 
 @snap[north]
-@size[2em](Typical checkout form)
+Typical Checkout Form
 @snapend
 
 Note:
