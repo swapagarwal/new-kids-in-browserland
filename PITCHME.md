@@ -37,12 +37,13 @@ Hello everyone! Today we'll talk about some of the new web APIs that have been r
 @snapend
 
 Note:
-My name is Swapnil and I'm a software engineer at Meesho. Prior to that, I worked for 2 years at Amazon. At night, I use my projects to lower the entry barrier in the world of open-source. If you're passionate about open-source sustainability or helping people start their open-source journey in general, you should definitely contact me via social media. I go by the handle swapagarwal.
+My name is Swapnil and I'm a software engineer at Meesho. Prior to that, I worked for 2 years at Amazon. I'm passionate about open-source sustainability and helping people start their open-source journey in general by lowering the entry barrier. If any of this excite you as well, I'd love to connect and hear your thoughts. You can find me on social media, by the handle swapagarwal.
 
 ---?image=template/meme/new_apis_are_coming!.jpg&size=auto 80%
 
 Note:
-Back to the topic! New browser APIs are coming.
+Back to the topic! Brace yourselves, Memes are coming.
+Sorry, I meant new browser APIs are coming!
 
 ---
 
