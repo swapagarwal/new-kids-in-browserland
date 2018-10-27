@@ -47,4 +47,4 @@ https://caniuse.com/#feat=web-share
 @snapend
 
 Note:
-This API is rolled out to Chrome and is in Preview mode on Safari.
+This API is rolled out to Chrome and is in Safari's Preview version.

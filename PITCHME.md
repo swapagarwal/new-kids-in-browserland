@@ -64,7 +64,7 @@ Here's a sneak peek of the APIs that we'll be talking about today.
 # Let's Start!
 
 Note:
-Let's start!
+Without further delay, let's dive right in!
 
 ---?include=template/md/intersection-observer/PITCHME.md
 
