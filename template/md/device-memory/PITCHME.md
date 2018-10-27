@@ -1,17 +1,21 @@
-### Device Memory API
-
-(Tailor content dynamically based on device memory!)
-
-@ul
-- This API returns the amount of device memory (RAM) on a user's machine in gigabytes.
-@ulend
+### Let's talk about memory
 
 Note:
-
 The range of capabilities of devices that can connect to the web is wider today than it's ever been before. The same web application that's served to a high-end desktop computer may also be served to a low-powered phone, watch, or tablet, and it can be incredibly challenging to create compelling experiences that work seamlessly on any device.
 
+
+---?image=template/meme//are_widely_used_in_emerging_markets.jpg&size=auto 100%
+
+Note:
 Low memory devices devices (under 512MB, 512MB-1GB) are widely used in emerging markets.
 
+---
+
+### Device Memory API
+
+This API returns the amount of device memory (RAM) on a user's machine in gigabytes.
+
+Note:
 The Device Memory API is a new web platform feature aimed at helping web developers deal with the modern device landscape. It adds a read-only property to the navigator object, navigator.deviceMemory, which returns how much RAM the device has in gigabytes, rounded down to the nearest power of two.
 
 ---?image=template/img/carbon/device-memory.png&size=90% auto
