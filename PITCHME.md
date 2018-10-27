@@ -91,13 +91,22 @@ Note:
 - A modern solution to handle scroll events (Intersection Observer API)
 - Keep login simple for your users (Credential Management API)
 - Make your website network-responsive (Network Information API)
+@ulend
+
+---
+
+## Recap
+
+@ul
 - Sharing made ridiculously easy (Web Share API)
 - Tailor content dynamically based on device memory (Device Memory API)
 - Buy seamlessly on the web (Payment Request API)
 @ulend
 
 Note:
-All of these APIs can be used progressively.
+All of these APIs can be used progressively, i.e. you can integrate them in your websites in such a way that users who are on supported browsers can be upgraded to a new experience while those who are still on unsupported browsers will remain on your old flow.
+On that note, I'd just like to emphasize that you should always develop features keeping your users in mind and not just for the sake of it.
+That's all I have for today. Thank you for your time!
 
 ---?color=#020203
 

@@ -10,6 +10,8 @@ Note:
 
 The range of capabilities of devices that can connect to the web is wider today than it's ever been before. The same web application that's served to a high-end desktop computer may also be served to a low-powered phone, watch, or tablet, and it can be incredibly challenging to create compelling experiences that work seamlessly on any device.
 
+Low memory devices devices (under 512MB, 512MB-1GB) are widely used in emerging markets.
+
 The Device Memory API is a new web platform feature aimed at helping web developers deal with the modern device landscape. It adds a read-only property to the navigator object, navigator.deviceMemory, which returns how much RAM the device has in gigabytes, rounded down to the nearest power of two.
 
 ---?image=template/img/carbon/device-memory.png&size=90% auto
