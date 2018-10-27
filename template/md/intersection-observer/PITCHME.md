@@ -25,7 +25,7 @@ This is a relatively new web API that provides easy-to-use, efficient tools for 
 Note:
 Here'a quick demo of the API in action. The top banner displays the answer to the question, "Is the green box in view?". As you can see, the API handles visibility of elements inside iframes too.
 
----?image=template/img/intersection-observer-threshold.gif&size=auto 100%
+---?image=template/img/intersection-observer-threshold.gif&size=auto 100%&position=left
 
 @snap[east]
 Thresholds = <br>[0, 0.25, 0.5, 0.75, 1]
