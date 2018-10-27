@@ -24,6 +24,9 @@ The Device Memory API is a new web platform feature aimed at helping web develop
 @size[1.5em](Code Sample)
 @snapend
 
+Note:
+Here, you can see business logic being implemented depending on whether the device has less than 1GB of RAM or more.
+
 ---
 
 ### Use Cases
@@ -47,3 +50,6 @@ Note:
 @snap[south]
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/Navigator/deviceMemory#Browser_compatibility" target="_blank" rel="noopener noreferrer">Reference</a>
 @snapend
+
+Note:
+As for the browser support, Chrome and Opera already support this API.

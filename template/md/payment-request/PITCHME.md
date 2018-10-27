@@ -1,5 +1,9 @@
 ---?image=template/img/payment-request-without.png&size=90% auto
 
+@snap[north]
+@size[2em](Typical checkout form)
+@snapend
+
 Note:
 Buying things online can be a frustrating process, especially on mobile. Even if the pages are well designed, there's a lot of information required: Our contact information, shipping and billing addresses, shipping option and card details. If you've ever just given up sometimes, you're in the majority.
 
